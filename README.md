@@ -1,0 +1,2 @@
+# FE-Kill-All
+Script
